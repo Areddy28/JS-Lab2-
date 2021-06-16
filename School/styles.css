@@ -1,0 +1,75 @@
+body {
+  background-color: teal;
+}
+
+form {
+display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 41px;
+  right: 473px;
+  border: 3px white solid;
+  background-color: white;
+  border-radius: 12px;
+  padding: 55px;
+}
+
+h2 {
+text-align: center;
+  position: relative;
+  top: -64px;
+  right: 0;
+}
+
+#email {
+position: relative;
+right: -98px;
+border-width: 0px;
+border: none;
+border-bottom: 1px solid #69696a;
+}
+
+#password {
+position: relative;
+right: -69px;
+border-width: 0px;
+border: none;
+padding: 1px;
+border-bottom: 1px solid #69696a;
+}
+
+
+.countainer {
+position: absolute; 
+  top: 0; 
+  left: 0; 
+  background-color: white;
+  margin-top: 247px;
+  margin-left: 66px;
+  width: 220px; 
+  height: 220px; 
+  padding: 40px; 
+  border-radius: 10px;
+}
+
+button {
+      color: #FFF;
+      border: none; 
+      background-color: black;
+      display: block;
+      border-radius: 11px;
+      padding: 13px;
+      width: 418px;
+      height: 38px;
+    }
+
+
+a {
+display: block;
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: #CCC;
+  position: relative;
+  right: -135px;
+    
+}   
